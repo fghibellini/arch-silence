@@ -6,7 +6,7 @@
 title-text: ""
 desktop-color: "#333"
 
-terminal-font: "Dejavu Sans Regular 12"
+terminal-font: "Dejavu Sans Mono 12"
 terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
